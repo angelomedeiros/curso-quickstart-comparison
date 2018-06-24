@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <app-user></app-user>
+    <p>Teste</p>
   </div>
 </template>
 
